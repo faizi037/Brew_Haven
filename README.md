@@ -1,16 +1,18 @@
-# coffee_shop
+# Brew Haven
 
-A new Flutter project.
+A premium mobile experience for coffee lovers, built with Flutter.
+
+## Features
+- **Modern UI:** Clean and responsive design using Google Nav Bar.
+- **Product Gallery:** Browse various coffee types with beautiful imagery.
+- **State Management:** Fully functional cart system using the Provider package.
+- **Persistent Selection:** Add/remove items from your cart in real-time.
+
+## Tech Stack
+- **Framework:** Flutter
+- **State Management:** Provider
+- **Icons:** Cupertino Icons
+- **Navigation:** Google Nav Bar
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev/).
